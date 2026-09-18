@@ -1,0 +1,17 @@
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\bin\Debug\net10.0-windows\College-Management-part1.exe
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\bin\Debug\net10.0-windows\College-Management-part1.deps.json
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\bin\Debug\net10.0-windows\College-Management-part1.runtimeconfig.json
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\bin\Debug\net10.0-windows\College-Management-part1.dll
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\bin\Debug\net10.0-windows\College-Management-part1.pdb
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College_Management_part1.Form1.resources
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.AssemblyInfo.cs
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.sourcelink.json
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.dll
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\refint\College-Management-part1.dll
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.pdb
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\College-Management-part1.genruntimeconfig.cache
+C:\Users\andre\Desktop\Multi-tier-git\MULTI_TIERS_Fall_2026-LaSalle_College\College-Management-part1\College-Management-part1\obj\Debug\net10.0-windows\ref\College-Management-part1.dll

@@ -39,7 +39,6 @@
             txtAge = new TextBox();
             btnCheck = new Button();
             btnRegister = new Button();
-            label4 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -59,7 +58,6 @@
             label2.Size = new Size(42, 15);
             label2.TabIndex = 1;
             label2.Text = "Nmae:";
-            label2.Click += this.label2_Click;
             // 
             // label3
             // 
@@ -69,7 +67,6 @@
             label3.Size = new Size(36, 15);
             label3.TabIndex = 2;
             label3.Text = "Email";
-            label3.Click += this.label3_Click;
             // 
             // label7
             // 
@@ -79,7 +76,6 @@
             label7.Size = new Size(65, 15);
             label7.TabIndex = 3;
             label7.Text = "Student ID:";
-            label7.Click += this.label4_Click;
             // 
             // label5
             // 
@@ -89,7 +85,6 @@
             label5.Size = new Size(31, 15);
             label5.TabIndex = 4;
             label5.Text = "Age:";
-            label5.Click += label5_Click;
             // 
             // txtStudentId
             // 
@@ -143,21 +138,11 @@
             btnRegister.UseVisualStyleBackColor = true;
             btnRegister.Click += btnRegister_Click;
             // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(249, 302);
-            label4.Name = "label4";
-            label4.Size = new Size(42, 15);
-            label4.TabIndex = 11;
-            label4.Text = "Result:";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(label4);
+            ClientSize = new Size(821, 458);
             Controls.Add(btnRegister);
             Controls.Add(btnCheck);
             Controls.Add(txtAge);
@@ -171,9 +156,12 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
+
+
 
         #endregion
 
@@ -188,6 +176,5 @@
         private TextBox txtAge;
         private Button btnCheck;
         private Button btnRegister;
-        private Label label4;
     }
 }
